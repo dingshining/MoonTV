@@ -84,6 +84,215 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+ "67": {
+    "name": "蜂巢资源",
+    "api": "https://api.fczy888.me/api.php/provide/vod",
+    "detail": ""
+  },
+  "68": {
+    "name": "U酷资源",
+    "api": "https://api.ukuapi88.com/api.php/provide/vod",
+    "detail": "https://www.ukuzy.com"
+  },
+  "69": {
+    "name": "步步高资源",
+    "api": "https://api.yparse.com/api/json",
+    "detail": ""
+  },
+  "70": {
+    "name": "神马云",
+    "api": "https://api.1080zyku.com/inc/apijson.php/",
+    "detail": "https://api.1080zyku.com"
+  },
+  "71": {
+    "name": "索尼资源",
+    "api": "https://suoniapi.com/api.php/provide/vod",
+    "detail": ""
+  },
+  "72": {
+    "name": "红牛资源",
+    "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+    "detail": "https://www.hongniuzy2.com"
+  },
+  "73": {
+    "name": "豆瓣资源（备用）",
+    "api": "https://caiji.dbzy.tv/api.php/provide/vod",
+    "detail": "https://caiji.dbzy.tv"
+  },
+  "74": {
+    "name": "魔都动漫",
+    "api": "https://caiji.moduapi.cc/api.php/provide/vod",
+    "detail": "https://caiji.moduapi.cc"
+  },
+  "75": {
+    "name": "黑木耳点播",
+    "api": "https://json02.heimuer.xyz/api.php/provide/vod",
+    "detail": "https://json02.heimuer.xyz"
+  },
+  "76": {
+    "name": "91麻豆",
+    "api": "https://91md.me/api.php/provide/vod",
+    "detail": "https://91md.me"
+  },
+  "77": {
+    "name": "AIvin",
+    "api": "http://lbapiby.com/api.php/provide/vod",
+    "detail": ""
+  },
+  "78": {
+    "name": "乐播资源",
+    "api": "https://lbapi9.com/api.php/provide/vod",
+    "detail": ""
+  },
+  "79": {
+    "name": "奶香香",
+    "api": "https://Naixxzy.com/api.php/provide/vod",
+    "detail": "https://Naixxzy.com"
+  },
+  "80": {
+    "name": "色南国",
+    "api": "https://api.sexnguon.com/api.php/provide/vod",
+    "detail": "https://api.sexnguon.com"
+  },
+  "81": {
+    "name": "美少女资源",
+    "api": "https://www.msnii.com/api/json.php",
+    "detail": "https://www.msnii.com"
+  },
+  "82": {
+    "name": "老色逼资源",
+    "api": "https://apilsbzy1.com/api.php/provide/vod",
+    "detail": "https://apilsbzy1.com"
+  },
+  "83": {
+    "name": "白嫖资源",
+    "api": "https://www.kxgav.com/api/json.php",
+    "detail": "https://www.kxgav.com"
+  },
+  "84": {
+    "name": "淫水机资源",
+    "api": "https://www.xrbsp.com/api/json.php",
+    "detail": "https://www.xrbsp.com"
+  },
+  "85": {
+    "name": "番号资源",
+    "api": "http://fhapi9.com/api.php/provide/vod",
+    "detail": ""
+  },
+  "86": {
+    "name": "富二代资源",
+    "api": "http://f2dcj6.com/sapi",
+    "detail": ""
+  },
+  "87": {
+    "name": "大地资源（新版）",
+    "api": "http://dadiapi.com/sea_api.php",
+    "detail": ""
+  },
+  "88": {
+    "name": "快车资源（新版）",
+    "api": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8",
+    "detail": ""
+  },
+  "89": {
+    "name": "金鹰资源（新版）",
+    "api": "https://jinyingzy.com/api.php/provide/vod",
+    "detail": "https://jinyingzy.com"
+  },
+  "90": {
+    "name": "新浪资源（新版）",
+    "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+    "detail": "https://api.xinlangapi.com"
+  },
+  "91": {
+    "name": "优质资源库",
+    "api": "https://api.yzzy-api.com/inc/api_mac10_all.php",
+    "detail": ""
+  },
+  "92": {
+    "name": "淘片资源网",
+    "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
+    "detail": ""
+  },
+  "93": {
+    "name": "U酷资源网",
+    "api": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
+    "detail": ""
+  },
+ "94": {
+    "name": "U酷资源网",
+    "api": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
+    "detail": ""
+  },
+  "95": {
+    "name": "AV-黄AV资源",
+    "api": "https://www.pgxdy.com/api/json.php",
+    "detail": "https://www.pgxdy.com"
+  },
+  "96": {
+    "name": "AV-番号资源",
+    "api": "http://fhapi9.com/api.php/provide/vod",
+    "detail": ""
+  },
+  "97": {
+    "name": "AV-白嫖资源",
+    "api": "https://www.kxgav.com/api/json.php",
+    "detail": "https://www.kxgav.com"
+  },
+  "98": {
+    "name": "AV-精品资源",
+    "api": "https://www.jingpinx.com/api.php/provide/vod",
+    "detail": "https://www.jingpinx.com"
+  },
+  "99": {
+    "name": "AV-美少女资源",
+    "api": "https://www.msnii.com/api/json.php",
+    "detail": "https://www.msnii.com"
+  },
+  "100": {
+    "name": "AV-老色逼资源",
+    "api": "https://apilsbzy1.com/api.php/provide/vod",
+    "detail": "https://apilsbzy1.com"
+  },
+  "101": {
+    "name": "金马资源网",
+    "api": "https://api.jmzy.com/api.php/provide/vod",
+    "detail": "https://api.jmzy.com"
+  },
+  "102": {
+    "name": "黄色资源啊啊",
+    "api": "https://hsckzy888.com/api.php/provide/vod",
+    "detail": "https://hsckzy888.com"
+  },
+  "103": {
+    "name": "小鸡资源（新版）",
+    "api": "https://api.xiaojizy.live/provide/vod",
+    "detail": "https://xiaojizy.live"
+  },
+  "104": {
+    "name": "快车资源阿",
+    "api": "https://caiji.kuaichezy.org/api.php/provide",
+    "detail": "https://kuaichezy.com"
+  },
+  "105": {
+    "name": "新浪资源阿",
+    "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+    "detail": "https://api.xinlangapi.com"
+  },
+  "106": {
+    "name": "辣椒资源黄黄",
+    "api": "https://apilj.com/api.php/provide",
+    "detail": "http://lajiaozy.com"
+  },
+  "107": {
+    "name": "优质资源库1080zyk6.com高清",
+    "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
+    "detail": "https://1080zyk6.com"
+  },
+  "108": {
+    "name": "细胞采集黄色",
+    "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+    "detail": "https://xxibaozyw.com"
     }
   }
 }
