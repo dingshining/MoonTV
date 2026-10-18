@@ -245,6 +245,31 @@
       "name": "🔞souavZY",
       "api": "https://api.souavzyw.net/api.php/provide/vod",
       "detail": "https://api.souavzyw.net"
+    },
+    "huyaapi.com": {
+      "name": "🎬虎牙资源",
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "detail": "https://www.huyaapi.com"
+    },
+    "wujinapi.com": {
+      "name": "🎬无尽资源2",
+      "api": "https://api.wujinapi.com/api.php/provide/vod",
+      "detail": "https://api.wujinapi.com"
+    },
+    "cj.ffzyapi.com": {
+      "name": "🎬非凡采集",
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "detail": "https://cj.ffzyapi.com"
+    },
+    "suoniapi.com": {
+      "name": "🎬索尼资源",
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "detail": "https://suoniapi.com"
+    },
+    "cj.yayazy.net": {
+      "name": "🎬丫丫点播",
+      "api": "https://cj.yayazy.net/api.php/provide/vod",
+      "detail": "https://cj.yayazy.net"
     }
   }
 }
