@@ -160,6 +160,16 @@
       "name": "🎬非凡采集",
       "api": "https://cj.ffzyapi.com/api.php/provide/vod",
       "detail": "https://cj.ffzyapi.com"
+    },
+    "cj.lziapi.com": {
+      "name": "🎬量子资源",
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "detail": "https://cj.lziapi.com"
+    },
+    "api.niuniuzy.me": {
+      "name": "🎬牛牛点播",
+      "api": "https://api.niuniuzy.me/api.php/provide/vod",
+      "detail": "https://api.niuniuzy.me"
     }
   }
 }
